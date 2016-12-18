@@ -7,6 +7,8 @@
 .dummy
 .dummy.in
 
+adsp.*/addon.xml
+
 *.o
 *.a
 *.P
@@ -34,3 +36,6 @@
 
 build/
 VS2013Kodi_AddonProject/
+
+*.patch
+*.diff
